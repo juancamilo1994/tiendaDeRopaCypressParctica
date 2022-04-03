@@ -1,0 +1,21 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sistema de ropa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "automation",
+    "tienda",
+    "de",
+    "ropa"
+  ],
+  "author": "Juan Camilo Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
