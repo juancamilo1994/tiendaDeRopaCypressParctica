@@ -1,4 +1,4 @@
 {
-    "searchInput": "#search_query_top",
+    "searchBox": "#search_query_top",
     "searchButton": "#searchbox > .btn"
 }
